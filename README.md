@@ -1,5 +1,5 @@
 # Sound
-A simple tweak for the SoundCloud app
+A simple tweak for the SoundCloud application
 
 Listen to music without logging in or signing up! 
 
