@@ -1,0 +1,17 @@
+Package: com.lema.CLOUDPLUS
+Name: SoundCloud+
+Version: 0.1-1
+Description: Listen to music without logging in or signing up!
+Section: Tweaks
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: 
+Replaces: 
+Priority: optional
+Architecture: iphoneos-arm
+Author: Michael Lema
+dev: 
+Homepage: 
+Depiction: 
+Maintainer: 
+Icon: 
+
